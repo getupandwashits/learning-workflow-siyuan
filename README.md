@@ -47,7 +47,7 @@
 ## 上手（5 分钟）
 
 1. 从 Releases 下载 `learning-workflow-siyuan-starter.sy.zip` 导入思源（得到笔记本「学习与成长-上手骨架」）；或下载 Markdown zip 用「导入 Markdown .zip」。
-2. 从仓库取文件：`ai/AGENTS.md` 放到工作区 `data/ai/`，`ai/skills/*` 放到 `data/storage/ai/agent/skills/`，`templates/*.md` 放到 `data/templates/`。
+2. 从仓库取文件（思源不自带，需要手动放入）：`ai/AGENTS.md` 放到工作区 `data/ai/`，`ai/skills/*` 放到 `data/storage/ai/agent/skills/`，`templates/*.md` 放到 `data/templates/`。
 3. 打开「首页」，对 Agent 说：**首次校准**。
 4. 建第一个真实项目，开始。
 
