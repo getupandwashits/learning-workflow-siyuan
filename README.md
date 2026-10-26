@@ -18,9 +18,9 @@
 
 ## 为什么用思源
 
-- 复用已有的 Agent 工作流（`AGENTS.md` + skills）。
+- 复用思源自带的工作区 Agent 框架（`AGENTS.md` + skills），不另搭系统。
 - 内容块有独立 ID，可单独检索、引用、局部更新。
-- 同步可自建（S3 / WebDAV），数据在自己手里。
+- 同步可自建（S3 / WebDAV）。
 
 ## 结构
 
